@@ -40,7 +40,7 @@ With **YouTube-SEO-Bot**, you’re no longer just a creator—you’re a **digit
 ### Setup Instructions  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/YouTube-SEO-Bot.git
+   git clone https://github.com/mefaay/YouTube-SEO-Bot.git
    cd YouTube-SEO-Bot
    ```  
 2. Install dependencies:  
@@ -95,7 +95,7 @@ Efsanevi videolar yükleyip hak ettiği izlenmeleri alamamaktan sıkıldınız m
 ### Kurulum Talimatları  
 1. Bu depoyu klonlayın:  
    ```bash
-   git clone https://github.com/yourusername/YouTube-SEO-Bot.git
+   git clone https://github.com/mefaay/YouTube-SEO-Bot.git
    cd YouTube-SEO-Bot
    ```  
 2. Bağımlılıkları yükleyin:  
